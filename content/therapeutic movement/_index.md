@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: Chapter 2
-linktitle: Chapter 2
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+title: Therapeutics
+linktitle: Therapeutics
+summary: This is a living document library of therapeutic movement, breathwork and other physical body practices.
 weight: 1
 icon: book-reader
 icon_pack: fas
