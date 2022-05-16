@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: Chapter 1
-linktitle: Chapter 1
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+title: Materia Medica
+linktitle: Materia Medica
+summary: This is a living document library of materia medica. 
 weight: 1
 icon: book
 icon_pack: fas
